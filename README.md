@@ -18,6 +18,8 @@
 
 [2025-08-29] [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)
 
+[2025-09-01] [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+
 </details>
 
 <details>
