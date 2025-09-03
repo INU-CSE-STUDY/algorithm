@@ -22,6 +22,8 @@
 
 [2025-09-02] [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
 
+[2025-09-03] [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
+
 </details>
 
 <details>
