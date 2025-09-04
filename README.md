@@ -24,6 +24,8 @@
 
 [2025-09-03] [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
 
+[2025-09-04] [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)
+
 </details>
 
 <details>
