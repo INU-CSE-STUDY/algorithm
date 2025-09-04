@@ -41,7 +41,7 @@ class Solution {
                 maxIndex = i;
             }
         }
-        System.out.println(ans[maxIndex]);
+
         
         //포함된 정수
         List<int[]> contain = new ArrayList<>();
