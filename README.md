@@ -26,6 +26,8 @@
 
 [2025-09-04] [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)
 
+[2025-09-05] [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)
+
 </details>
 
 <details>
