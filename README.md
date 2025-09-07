@@ -35,4 +35,6 @@
 
 [2025-09-01] [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)
 
+[2025-09-08] [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)
+
 </details>
