@@ -28,6 +28,8 @@
 
 [2025-09-05] [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)
 
+[2025-09-08] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+
 </details>
 
 <details>
