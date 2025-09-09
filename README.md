@@ -30,6 +30,8 @@
 
 [2025-09-08] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 
+[2025-09-09] [충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)
+
 </details>
 
 <details>
