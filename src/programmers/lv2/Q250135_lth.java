@@ -25,7 +25,7 @@ package programmers.lv2;
 import java.util.*;
 
 class Solution {
-    public int solution(int h1, int m1, int s1, int h2, int m2, int s2) {
+    public int Q250135_lth(int h1, int m1, int s1, int h2, int m2, int s2) {
         //시작시간과 끝나는 시간을 43200(12×60×60)로 표시
         int clock = 43200;
         int t1 = h1 * 3600 + m1 * 60 + s1;
