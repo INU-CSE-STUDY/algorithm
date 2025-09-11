@@ -34,6 +34,8 @@
 
 [2025-09-10] [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
 
+[2025-09-11] [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)
+
 </details>
 
 <details>
