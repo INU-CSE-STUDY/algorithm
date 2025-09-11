@@ -6,7 +6,7 @@
 ## 문제
 <details>
 <summary>lv1</summary>
-
+[2025-09-11] [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478)
 
 
 </details>
