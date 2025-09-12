@@ -28,13 +28,15 @@
 
 [2025-09-05] [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)
 
-[2025-09-08] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+[2025-09-08] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) / LTH
 
 [2025-09-09] [충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)
 
 [2025-09-10] [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
 
 [2025-09-11] [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)
+
+[2025-09-12] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) / KJ, JHG
 
 </details>
 
