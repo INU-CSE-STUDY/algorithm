@@ -49,4 +49,6 @@
 
 [2025-09-08] [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)
 
+[2025-09-15] [수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)
+
 </details>
