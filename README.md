@@ -38,6 +38,8 @@
 
 [2025-09-12] [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) / KJ, JHG
 
+[2025-09-15] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) / LTH
+
 </details>
 
 <details>
