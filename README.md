@@ -40,6 +40,8 @@
 
 [2025-09-15] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) / LTH
 
+[2025-09-15] [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
+
 </details>
 
 <details>
