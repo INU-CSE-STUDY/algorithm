@@ -40,7 +40,10 @@
 
 [2025-09-15] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) / LTH
 
-[2025-09-15] [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
+[2025-09-16] [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
+
+[2025-09-17] [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
+
 
 </details>
 
