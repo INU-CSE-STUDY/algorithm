@@ -11,7 +11,7 @@ visited 배열을 만들어 방문한 곳은 다시 안가도록 처리
 
 import java.util.*;
 
-class Solution {
+class Q1844_lth {
     public int solution(int[][] maps) {
         int answer = 0;
         int n = maps.length;
@@ -21,7 +21,7 @@ class Solution {
         
         return answer;
     }
-    
+
     static class Point {
         int i;
         int j;

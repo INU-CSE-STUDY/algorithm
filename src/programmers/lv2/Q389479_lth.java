@@ -8,7 +8,7 @@ package programmers.lv2;
 */
 
 
-class Solution {
+class Q389479_lth {
     public int solution(int[] players, int m, int k) {
         int n = players.length;
         int answer = 0;

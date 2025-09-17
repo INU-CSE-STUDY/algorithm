@@ -11,7 +11,7 @@ package programmers.lv2;
 
 import java.util.*;
 
-class Solution {
+class Q178870_lth {
     public int[] solution(int[] sequence, int k) {
         int n = sequence.length;
         int left = 0;

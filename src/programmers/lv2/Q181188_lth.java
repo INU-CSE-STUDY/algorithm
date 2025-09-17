@@ -12,7 +12,7 @@ package programmers.lv2;
 
 import java.util.*;
 
-class Solution {
+class Q181188_lth {
     public int solution(int[][] targets) {
         // 1. 끝점 오름차순 정렬
         Arrays.sort(targets, (o1, o2) -> Integer.compare(o1[1], o2[1]));

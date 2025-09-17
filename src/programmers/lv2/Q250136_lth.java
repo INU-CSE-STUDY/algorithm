@@ -1,3 +1,4 @@
+package programmers.lv2;
 /* 프로그래머스 250136번 석유 시추추 문제
 
 
@@ -13,16 +14,7 @@ boolen[][] visited로 방문처리하고 스택에 넣을 때마다 visited 처�
 
 import java.util.*;
 
-//좌표용 클래스
-class Point {
-    int i, j;
-    Point(int i, int j) {
-        this.i = i;
-        this.j = j;
-    }
-}
-
-class Solution {
+class Q250136_lth {
     public int solution(int[][] land) {
         int answer = 0;
         int n = land.length;
@@ -95,5 +87,14 @@ class Solution {
             }
         }
         return area;
+    }
+
+    //좌표용 클래스
+    class Point {
+        int i, j;
+        Point(int i, int j) {
+            this.i = i;
+            this.j = j;
+        }
     }
 }

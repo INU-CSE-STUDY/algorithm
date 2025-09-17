@@ -13,7 +13,7 @@ package programmers.lv2;
 
 import java.util.*;
 
-class Solution {
+class Q388352_lth {
     public int solution(int n, int[][] q, int[] ans) {
         int answer = 0;
         //최종 남은 조합
