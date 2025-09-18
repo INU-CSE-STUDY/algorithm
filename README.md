@@ -44,6 +44,8 @@
 
 [2025-09-17] [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 
+[2025-09-18] [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+
 
 </details>
 
