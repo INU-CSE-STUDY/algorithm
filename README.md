@@ -46,6 +46,8 @@
 
 [2025-09-18] [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 
+[2025-09-19] [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+
 
 </details>
 
