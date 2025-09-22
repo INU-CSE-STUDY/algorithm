@@ -62,4 +62,6 @@
 
 [2025-09-15] [수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)
 
+[2025-09-22] [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
+
 </details>
