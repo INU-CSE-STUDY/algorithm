@@ -50,6 +50,7 @@
 
 [2025-09-22] [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
 
+[2025-09-23] [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
 </details>
 
