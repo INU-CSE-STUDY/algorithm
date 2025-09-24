@@ -52,6 +52,8 @@
 
 [2025-09-23] [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
+[2025-09-24] [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
+
 </details>
 
 <details>
