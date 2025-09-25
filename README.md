@@ -54,6 +54,9 @@
 
 [2025-09-24] [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
 
+[2025-09-25] [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+
+
 </details>
 
 <details>
