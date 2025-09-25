@@ -10,7 +10,7 @@ package programmers.lv2;
 상단 벽 반사일때 x가 같고 y가 더 작으면 안됨
 */
 
-class Solution {
+class Q169198_lth {
     public int[] solution(int m, int n, int startX, int startY, int[][] balls) {
         int[] answer = new int[balls.length];
 
