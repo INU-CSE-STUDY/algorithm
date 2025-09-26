@@ -56,6 +56,8 @@
 
 [2025-09-25] [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 
+[2025-09-26] [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+
 
 </details>
 
