@@ -24,7 +24,7 @@ class Point {
     }
 }
 
-class Solution {
+class Q388353_lth {
     public int solution(String[] storage, String[] requests) {
         int n = storage.length;
         int m = storage[0].length();

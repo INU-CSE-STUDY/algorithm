@@ -11,7 +11,7 @@ package programmers.lv2;
 
 import java.util.*;
 
-class Solution {
+class Q12909_lth {
     boolean solution(String s) {
         boolean answer = true;
         int len = s.length();

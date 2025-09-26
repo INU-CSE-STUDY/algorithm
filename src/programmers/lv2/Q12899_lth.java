@@ -10,7 +10,7 @@ n이 0이 될때까지 나머지가 0이면 4를 붙이고 n을 3으로 나눈 �
 
 import java.util.*;
 
-class Solution {
+class Q12899_lth {
     public String solution(int n) {
         StringBuilder answer = new StringBuilder();     // StringBuilder로 문자열 생성
         while(n > 0){
