@@ -74,4 +74,6 @@
 
 [2025-09-22] [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
 
+[2025-09-29] [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)
+
 </details>
