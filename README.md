@@ -58,6 +58,8 @@
 
 [2025-09-26] [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 
+[2025-09-29] [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+
 
 </details>
 
