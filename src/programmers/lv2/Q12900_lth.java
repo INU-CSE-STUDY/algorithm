@@ -9,7 +9,7 @@ f(1) = 1, f(2) = 2를 미리 넣어놓고 f(3)부터 f(n)까지 반복문을 돌
 */
 
 
-class 12900_lth {
+class Q12900_lth {
     public int solution(int n) {
         // f(n) = f(n-1) + f(n-2)
         if (n == 1) return 1;
