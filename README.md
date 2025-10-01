@@ -62,6 +62,8 @@
 
 [2025-09-30] [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 
+[2025-10-01] [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+
 
 </details>
 
