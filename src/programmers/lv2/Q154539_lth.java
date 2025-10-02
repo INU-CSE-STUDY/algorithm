@@ -11,7 +11,7 @@ package programmers.lv2;
 
 import java.util.*;
 
-class Solution {
+class Q154539_lth {
     public int[] solution(int[] numbers) {
         int n = numbers.length;
         int[] answer = new int[n];
