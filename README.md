@@ -64,6 +64,8 @@
 
 [2025-10-01] [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
 
+[2025-10-02] [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+
 
 </details>
 
