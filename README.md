@@ -66,6 +66,8 @@
 
 [2025-10-02] [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
 
+[2025-10-03] [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+
 
 </details>
 
