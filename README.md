@@ -68,6 +68,8 @@
 
 [2025-10-03] [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
 
+[2025-10-13] [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
+
 
 </details>
 
