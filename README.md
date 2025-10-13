@@ -84,4 +84,6 @@
 
 [2025-09-29] [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)
 
+[2025-10-13] [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
+
 </details>
