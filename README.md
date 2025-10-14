@@ -70,6 +70,8 @@
 
 [2025-10-13] [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 
+[2025-10-14] [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+
 
 </details>
 
