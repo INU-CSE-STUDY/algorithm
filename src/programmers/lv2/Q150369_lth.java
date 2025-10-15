@@ -12,7 +12,7 @@ pickips에서 cap만큼 또 뺌
 
 import java.util.*;
 
-class Solution {
+class Q150369_lth {
     public long solution(int cap, int n, int[] deliveries, int[] pickups) {
         long answer = 0;
         
