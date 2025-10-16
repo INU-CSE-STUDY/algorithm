@@ -74,6 +74,8 @@
 
 [2025-10-15] [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 
+[2025-10-16] [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+
 
 </details>
 
