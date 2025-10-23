@@ -82,6 +82,8 @@
 
 [2025-10-22] [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
 
+[2025-10-23] [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+
 
 </details>
 
