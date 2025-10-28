@@ -11,7 +11,7 @@ k가 될때까지 빼기
 
 import java.util.*;
 
-class Solution {
+class Q138476_lth {
     public int solution(int k, int[] tangerine) {
         int answer = 0;
         Map<Integer, Integer> counts = new HashMap<>();
