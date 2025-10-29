@@ -90,6 +90,8 @@
 
 [2025-10-29] [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
+[2025-10-30] [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
+
 </details>
 
 <details>
