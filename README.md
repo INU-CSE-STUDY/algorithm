@@ -92,6 +92,8 @@
 
 [2025-10-30] [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
 
+[2025-10-31] [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+
 </details>
 
 <details>
