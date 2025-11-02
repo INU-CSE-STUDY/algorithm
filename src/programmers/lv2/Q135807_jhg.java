@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 public class Q135807_jhg {
     public int solution(int[] arrayA, int[] arrayB) {
-        int answer = 0;
-
         int gcdA = Arrays.stream(arrayA)
                 .reduce(this::getGCD)
                 .orElse(0);
