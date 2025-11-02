@@ -17,13 +17,8 @@ public class Q135807_jhg {
     }
 
     private int calculateAvailableNumber(int[] array, int gcd) {
-        for (int number : array) {
-            if (number % gcd == 0) {
-                return 0;
-            }
-        }
-
-        return gcd;
+        return Arrays.stream(array)
+                .anyMatch(number -> number % gcd == 0) ? 0 : gcd;
     }
 
     private int getGCD(int b, int a) {
