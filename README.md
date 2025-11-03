@@ -94,6 +94,8 @@
 
 [2025-10-31] [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
+[2025-11-04] [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+
 </details>
 
 <details>
