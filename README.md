@@ -100,6 +100,8 @@
 
 [2025-11-06] [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
 
+[2025-11-07] [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+
 </details>
 
 <details>
