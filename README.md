@@ -98,6 +98,8 @@
 
 [2025-11-05] [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 
+[2025-11-06] [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+
 </details>
 
 <details>
