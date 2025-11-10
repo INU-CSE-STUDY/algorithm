@@ -123,4 +123,7 @@
 
 [2025-11-03] [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)
 
+[2025-11-10] [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)
+
+
 </details>
