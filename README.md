@@ -108,6 +108,9 @@
 
 [2025-11-13] [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 
+[2025-11-14] [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+
+
 </details>
 
 <details>
