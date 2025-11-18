@@ -7,7 +7,7 @@ package programmers.lv2;
 0부터 돌면서 방문처리하고 다음 단계로 넘어가는 방식으로 구현
 */
 
-class Solution {
+class Q87946_lth {
     int[][] dungeons;
     boolean[] visited;
     int best = 0;
