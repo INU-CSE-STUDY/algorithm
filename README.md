@@ -110,6 +110,8 @@
 
 [2025-11-14] [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 
+[2025-11-18] [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+
 
 </details>
 
