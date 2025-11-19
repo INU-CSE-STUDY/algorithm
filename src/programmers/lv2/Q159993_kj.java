@@ -152,11 +152,11 @@ class Q159993_kj {
             return true;
         }
 
-        public boolean isLeverPosition(programmers.lv2.Point lever) {
+        public boolean isLeverPosition(Point lever) {
             return this.x == lever.x && this.y == lever.y;
         }
 
-        public boolean isExitPosition(programmers.lv2.Point exit) {
+        public boolean isExitPosition(Point exit) {
             return this.x == exit.x && this.y == exit.y;
         }
     }
