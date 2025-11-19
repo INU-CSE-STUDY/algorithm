@@ -114,6 +114,8 @@
 
 [2025-11-19] [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 
+[2025-11-20] [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
+
 
 
 </details>
