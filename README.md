@@ -112,6 +112,9 @@
 
 [2025-11-18] [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 
+[2025-11-19] [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+
+
 
 </details>
 
