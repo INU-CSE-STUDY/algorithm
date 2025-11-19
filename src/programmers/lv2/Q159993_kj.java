@@ -129,35 +129,35 @@ class Q159993_kj {
         // 정상적으로 도달가능한 경우, 거리를 반환
         return distance;
     }
-}
 
-class Point {
-    int x;
-    int y;
-    int distance;
+    class Point {
+        int x;
+        int y;
+        int distance;
 
-    public Point(int x, int y, int distance) {
-        this.x = x;
-        this.y = y;
-        this.distance = distance;
-    }
+        public Point(int x, int y, int distance) {
+            this.x = x;
+            this.y = y;
+            this.distance = distance;
+        }
 
-    public boolean isPossiblePosition(char[][] maze) {
+        public boolean isPossiblePosition(char[][] maze) {
 
-        // 미로의 바깥으로 넘어간 경우
-        if (maze[this.x][this.y] == '\0') return false;
+            // 미로의 바깥으로 넘어간 경우
+            if (maze[this.x][this.y] == '\0') return false;
 
-        // 미로의 벽인 경우
-        if (maze[this.x][this.y] == 'X') return false;
+            // 미로의 벽인 경우
+            if (maze[this.x][this.y] == 'X') return false;
 
-        return true;
-    }
+            return true;
+        }
 
-    public boolean isLeverPosition(Point lever) {
-        return this.x == lever.x && this.y == lever.y;
-    }
+        public boolean isLeverPosition(programmers.lv2.Point lever) {
+            return this.x == lever.x && this.y == lever.y;
+        }
 
-    public boolean isExitPosition(Point exit) {
-        return this.x == exit.x && this.y == exit.y;
+        public boolean isExitPosition(programmers.lv2.Point exit) {
+            return this.x == exit.x && this.y == exit.y;
+        }
     }
 }

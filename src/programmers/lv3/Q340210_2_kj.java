@@ -91,79 +91,80 @@ class Q340210_2_kj {
             possibleBaseList.add(i);
         }
     }
-}
 
-class Expression {
-    String A;
-    String op;
-    String B;
-    String result;
+    class Expression {
+        String A;
+        String op;
+        String B;
+        String result;
 
-    public Expression(String expression) {
-        String[] parts = expression.split(" ");
-        this.A = parts[0];
-        this.op = parts[1];
-        this.B = parts[2];
-        this.result = parts[4];
-    }
+        public Expression(String expression) {
+            String[] parts = expression.split(" ");
+            this.A = parts[0];
+            this.op = parts[1];
+            this.B = parts[2];
+            this.result = parts[4];
+        }
 
-    public boolean isContainsX() {
-        return result.equals("X");
-    }
+        public boolean isContainsX() {
+            return result.equals("X");
+        }
 
-    public boolean checkExpression(int base) {
-        int numA = Integer.parseInt(A, base);
-        int numB = Integer.parseInt(B, base);
-        int numC = Integer.parseInt(result, base);
+        public boolean checkExpression(int base) {
+            int numA = Integer.parseInt(A, base);
+            int numB = Integer.parseInt(B, base);
+            int numC = Integer.parseInt(result, base);
 
-        if (op.equals("+")) {
-            return numA + numB == numC;
-        } else {
-            return numA - numB == numC;
+            if (op.equals("+")) {
+                return numA + numB == numC;
+            } else {
+                return numA - numB == numC;
+            }
+        }
+
+        public String calculateExpression(int base) {
+            int numA = Integer.parseInt(A, base);
+            int numB = Integer.parseInt(B, base);
+            int numC = 0;
+
+            if (op.equals("+")) {
+                numC = numA + numB;
+            } else {
+                numC = numA - numB;
+            }
+
+            return Integer.toString(numC, base);
+        }
+
+        public int getMaxDigit() {
+            int max = -1;
+
+            max = Math.max(max, getMaxNum(A));
+            max = Math.max(max, getMaxNum(B));
+
+            if (!isContainsX()) {
+                max = Math.max(max, getMaxNum(result));
+            }
+
+            return max;
+        }
+
+        private int getMaxNum(String num) {
+            int max = -1;
+            int number = Integer.parseInt(num);
+
+            while (number > 0) {
+                int n = number % 10;
+                max = Math.max(max, n);
+                number = number / 10;
+            }
+
+            return max;
+        }
+
+        public String toString() {
+            return (A + " " + op + " " + B + " = " + result);
         }
     }
 
-    public String calculateExpression(int base) {
-        int numA = Integer.parseInt(A, base);
-        int numB = Integer.parseInt(B, base);
-        int numC = 0;
-
-        if (op.equals("+")) {
-            numC = numA + numB;
-        } else {
-            numC = numA - numB;
-        }
-
-        return Integer.toString(numC, base);
-    }
-
-    public int getMaxDigit() {
-        int max = -1;
-
-        max = Math.max(max, getMaxNum(A));
-        max = Math.max(max, getMaxNum(B));
-
-        if (!isContainsX()) {
-            max = Math.max(max, getMaxNum(result));
-        }
-
-        return max;
-    }
-
-    private int getMaxNum(String num) {
-        int max = -1;
-        int number = Integer.parseInt(num);
-
-        while (number > 0) {
-            int n = number % 10;
-            max = Math.max(max, n);
-            number = number / 10;
-        }
-
-        return max;
-    }
-
-    public String toString() {
-        return (A + " " + op + " " + B + " = " + result);
-    }
 }

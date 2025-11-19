@@ -132,22 +132,22 @@ class Q250134_kj {
         }
         return copy;
     }
-}
 
-class State {
-    int rx, ry; // 빨간 수레 좌표
-    int bx, by; // 파란 수레 좌표
-    int turn;   // 현재 턴 수
-    boolean[][] redVisitedPath;
-    boolean[][] blueVisitedPath;
+    class State {
+        int rx, ry; // 빨간 수레 좌표
+        int bx, by; // 파란 수레 좌표
+        int turn;   // 현재 턴 수
+        boolean[][] redVisitedPath;
+        boolean[][] blueVisitedPath;
 
-    State(int rx, int ry, int bx, int by, int turn, boolean[][] redVisitedPath, boolean[][] blueVisitedPath) {
-        this.rx = rx;
-        this.ry = ry;
-        this.bx = bx;
-        this.by = by;
-        this.turn = turn;
-        this.redVisitedPath = redVisitedPath;
-        this.blueVisitedPath = blueVisitedPath;
+        State(int rx, int ry, int bx, int by, int turn, boolean[][] redVisitedPath, boolean[][] blueVisitedPath) {
+            this.rx = rx;
+            this.ry = ry;
+            this.bx = bx;
+            this.by = by;
+            this.turn = turn;
+            this.redVisitedPath = redVisitedPath;
+            this.blueVisitedPath = blueVisitedPath;
+        }
     }
 }

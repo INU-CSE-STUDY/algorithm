@@ -100,18 +100,19 @@ class Q172927_kj {
 
         return answer;
     }
-}
 
-class Group {
-    int value;
-    int diamond;
-    int iron;
-    int stone;
+    class Group {
+        int value;
+        int diamond;
+        int iron;
+        int stone;
 
-    public Group() {
-        this.value = 0;
-        this.diamond = 0;
-        this.iron = 0;
-        this.stone = 0;
+        public Group() {
+            this.value = 0;
+            this.diamond = 0;
+            this.iron = 0;
+            this.stone = 0;
+        }
     }
+
 }

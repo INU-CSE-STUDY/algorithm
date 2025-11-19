@@ -102,26 +102,26 @@ class Q169199_kj {
 
         return isPossible ? moveCount : -1;
     }
-}
 
-class Point {
-    int x; // x 좌표
-    int y; // y 좌표
-    int moveCount; // 해당 도착하기 위해 이동한 횟수
+    class Point {
+        int x; // x 좌표
+        int y; // y 좌표
+        int moveCount; // 해당 도착하기 위해 이동한 횟수
 
-    public Point(int x, int y, int moveCount) {
-        this.x = x;
-        this.y = y;
-        this.moveCount = moveCount;
-    }
+        public Point(int x, int y, int moveCount) {
+            this.x = x;
+            this.y = y;
+            this.moveCount = moveCount;
+        }
 
-    // 게임판 가장자리 또는 장애물에 부딪히는지 판단하기 위한 메서드
-    public boolean isCollision(char[][] map) {
-        return map[this.x][this.y] == '\0' || map[this.x][this.y] == 'D';
-    }
+        // 게임판 가장자리 또는 장애물에 부딪히는지 판단하기 위한 메서드
+        public boolean isCollision(char[][] map) {
+            return map[this.x][this.y] == '\0' || map[this.x][this.y] == 'D';
+        }
 
-    // 종료 지점과 일치하는지 판단하기 위한 메서드
-    public boolean isEndPoint(int endX, int endY) {
-        return (this.x == endX) && (this.y == endY);
+        // 종료 지점과 일치하는지 판단하기 위한 메서드
+        public boolean isEndPoint(int endX, int endY) {
+            return (this.x == endX) && (this.y == endY);
+        }
     }
 }

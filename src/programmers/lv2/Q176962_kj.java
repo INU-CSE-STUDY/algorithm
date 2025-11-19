@@ -53,38 +53,38 @@ class Q176962_kj {
 
         return answer.toArray(new String[0]);
     }
-}
 
-class Homework {
-    String name; // 과제명
-    int startTime; // 과제 시작 시각
-    int playTime; // 과제를 완료하는데 걸리는 시간
-    int endTime; // 과제 종료 시각
+    class Homework {
+        String name; // 과제명
+        int startTime; // 과제 시작 시각
+        int playTime; // 과제를 완료하는데 걸리는 시간
+        int endTime; // 과제 종료 시각
 
-    public Homework(String[] plan) {
-        this.name = plan[0];
-        this.startTime = getMinutes(plan[1]);
-        this.playTime = Integer.parseInt(plan[2]);
-        this.endTime = this.startTime + this.playTime;
-    }
+        public Homework(String[] plan) {
+            this.name = plan[0];
+            this.startTime = getMinutes(plan[1]);
+            this.playTime = Integer.parseInt(plan[2]);
+            this.endTime = this.startTime + this.playTime;
+        }
 
-    private int getMinutes(String start) {
-        String[] time = start.split(":");
-        int hh = Integer.parseInt(time[0]);
-        int mm = Integer.parseInt(time[1]);
+        private int getMinutes(String start) {
+            String[] time = start.split(":");
+            int hh = Integer.parseInt(time[0]);
+            int mm = Integer.parseInt(time[1]);
 
-        return hh * 60 + mm;
-    }
+            return hh * 60 + mm;
+        }
 
-    public void updateTime(Homework next) {
-        this.startTime = next.startTime;
-        this.playTime = this.endTime - next.startTime;
-        this.endTime = this.startTime + this.playTime;
-    }
+        public void updateTime(Homework next) {
+            this.startTime = next.startTime;
+            this.playTime = this.endTime - next.startTime;
+            this.endTime = this.startTime + this.playTime;
+        }
 
-    public void updateTime(int minute) {
-        this.startTime += minute;
-        this.playTime -= minute;
-        this.endTime = this.startTime + this.playTime;
+        public void updateTime(int minute) {
+            this.startTime += minute;
+            this.playTime -= minute;
+            this.endTime = this.startTime + this.playTime;
+        }
     }
 }

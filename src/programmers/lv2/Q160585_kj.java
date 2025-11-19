@@ -54,87 +54,87 @@ class Q160585_kj {
 
         return new int[]{ oCnt, xCnt };
     }
-}
 
-class TicTacToe {
-    int oCnt;
-    int xCnt;
+    class TicTacToe {
+        int oCnt;
+        int xCnt;
 
-    public TicTacToe(int oCnt, int xCnt) {
-        this.oCnt = oCnt;
-        this.xCnt = xCnt;
-    }
+        public TicTacToe(int oCnt, int xCnt) {
+            this.oCnt = oCnt;
+            this.xCnt = xCnt;
+        }
 
-    public boolean isPossibleCase(char[][] board) {
-        // 승부 결과와 표시된 모양의 개수를 종합하여 정상적인 게임인지 확인
+        public boolean isPossibleCase(char[][] board) {
+            // 승부 결과와 표시된 모양의 개수를 종합하여 정상적인 게임인지 확인
 
-        int[] winCount = getWinCount(board);
-        int oWinCnt = winCount[0];
-        int xWinCnt = winCount[1];
+            int[] winCount = getWinCount(board);
+            int oWinCnt = winCount[0];
+            int xWinCnt = winCount[1];
 
-        // 아직 승부가 나지 않은 경우
-        if ((oWinCnt == 0 && xWinCnt == 0) &&
-                this.isPossibleCount('N')) return true;
+            // 아직 승부가 나지 않은 경우
+            if ((oWinCnt == 0 && xWinCnt == 0) &&
+                    this.isPossibleCount('N')) return true;
 
-        // O가 승리한 경우
-        if ((oWinCnt >= 1 && xWinCnt == 0) &&
-                this.isPossibleCount('O')) return true;
+            // O가 승리한 경우
+            if ((oWinCnt >= 1 && xWinCnt == 0) &&
+                    this.isPossibleCount('O')) return true;
 
-        // X가 승리한 경우
-        if ((oWinCnt == 0 && xWinCnt >= 1) &&
-                this.isPossibleCount('X')) return true;
+            // X가 승리한 경우
+            if ((oWinCnt == 0 && xWinCnt >= 1) &&
+                    this.isPossibleCount('X')) return true;
 
-        return false;
-    }
+            return false;
+        }
 
-    private int[] getWinCount(char[][] board) {
-        // 게임판을 확인해 승리 조건을 만족하는 행/열/대각선을 카운트
-        int oWinCnt = 0;
-        int xWinCnt = 0;
+        private int[] getWinCount(char[][] board) {
+            // 게임판을 확인해 승리 조건을 만족하는 행/열/대각선을 카운트
+            int oWinCnt = 0;
+            int xWinCnt = 0;
 
-        for (int i = 0; i < 3; i++) {
-            // 가로 승리 조건
-            if (board[i][0] == board[i][1] && board[i][1] == board[i][2]) {
-                if (board[i][0] == 'O') oWinCnt++;
-                else if (board[i][0] == 'X') xWinCnt++;
+            for (int i = 0; i < 3; i++) {
+                // 가로 승리 조건
+                if (board[i][0] == board[i][1] && board[i][1] == board[i][2]) {
+                    if (board[i][0] == 'O') oWinCnt++;
+                    else if (board[i][0] == 'X') xWinCnt++;
+                }
+
+                // 세로 승리 조건
+                if (board[0][i] == board[1][i] && board[1][i] == board[2][i]) {
+                    if (board[0][i] == 'O') oWinCnt++;
+                    else if (board[0][i] == 'X') xWinCnt++;
+                }
             }
 
-            // 세로 승리 조건
-            if (board[0][i] == board[1][i] && board[1][i] == board[2][i]) {
-                if (board[0][i] == 'O') oWinCnt++;
-                else if (board[0][i] == 'X') xWinCnt++;
+            // 대각선 승리 조건
+            if ((board[0][0] == board[1][1] && board[1][1] == board[2][2]) ||
+                    (board[0][2] == board[1][1] && board[1][1] == board[2][0])) {
+                if (board[1][1] == 'O') oWinCnt++;
+                else if (board[1][1] == 'X') xWinCnt++;
             }
+
+            return new int[]{ oWinCnt, xWinCnt };
         }
 
-        // 대각선 승리 조건
-        if ((board[0][0] == board[1][1] && board[1][1] == board[2][2]) ||
-                (board[0][2] == board[1][1] && board[1][1] == board[2][0])) {
-            if (board[1][1] == 'O') oWinCnt++;
-            else if (board[1][1] == 'X') xWinCnt++;
+        private boolean isPossibleCount(char winPlayer) {
+            // 승리 플레이어별로 가능한 모양의 개수가 다름
+
+            // 아직 승부가 나지 않은 경우
+            if (winPlayer == 'N') {
+                if (this.oCnt == this.xCnt) return true;
+                if (this.oCnt == this.xCnt + 1) return true;
+            }
+
+            // O가 승리한 경우
+            if (winPlayer == 'O') {
+                if (this.oCnt == this.xCnt + 1) return true;
+            }
+
+            // X가 승리한 경우
+            if (winPlayer == 'X') {
+                if (this.oCnt == this.xCnt) return true;
+            }
+
+            return false;
         }
-
-        return new int[]{ oWinCnt, xWinCnt };
-    }
-
-    private boolean isPossibleCount(char winPlayer) {
-        // 승리 플레이어별로 가능한 모양의 개수가 다름
-
-        // 아직 승부가 나지 않은 경우
-        if (winPlayer == 'N') {
-            if (this.oCnt == this.xCnt) return true;
-            if (this.oCnt == this.xCnt + 1) return true;
-        }
-
-        // O가 승리한 경우
-        if (winPlayer == 'O') {
-            if (this.oCnt == this.xCnt + 1) return true;
-        }
-
-        // X가 승리한 경우
-        if (winPlayer == 'X') {
-            if (this.oCnt == this.xCnt) return true;
-        }
-
-        return false;
     }
 }
