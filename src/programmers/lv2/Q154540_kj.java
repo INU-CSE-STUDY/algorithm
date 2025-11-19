@@ -88,14 +88,14 @@ class Q154540_kj {
             }
         }
     }
+}
 
-    class Point {
-        int x;
-        int y;
+class Point {
+    int x;
+    int y;
 
-        public Point(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
+    public Point(int x, int y) {
+        this.x = x;
+        this.y = y;
     }
 }
