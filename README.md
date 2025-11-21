@@ -116,6 +116,8 @@
 
 [2025-11-20] [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
 
+[2025-11-21] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+
 
 
 </details>
