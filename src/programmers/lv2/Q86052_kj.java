@@ -105,36 +105,12 @@ class Q86052_kj {
         }
 
         public Point getNextPoint() {
+
             int nextDir = getDirectionIdx(map[this.r][this.c], this.dir);
-
-            int nextR = r + dRow[nextDir];
-            int nextC = c + dColumn[nextDir];
-
-            if (isImpossiblePosition(nextR, nextC)) {
-
-                if (nextR < 0) {
-                    nextR = row - 1;
-                }
-
-                if (nextR == row) {
-                    nextR = 0;
-                }
-
-                if (nextC < 0) {
-                    nextC = column - 1;
-                }
-
-                if (nextC == column) {
-                    nextC = 0;
-                }
-            }
+            int nextR = (r + dRow[nextDir] + row) % row;
+            int nextC = (c + dColumn[nextDir] + column) % column;
 
             return new Point(nextR, nextC, nextDir);
-        }
-
-        private boolean isImpossiblePosition(int r, int c) {
-            // 격자 밖을 넘어가는 경우는 불가능한 위치 = 반대편으로 넘어가야 함
-            return !((0 <= r && r < row) && (0 <= c && c < column));
         }
 
         private int getDirectionIdx(char command, int prevDirectionIdx) {
