@@ -118,6 +118,8 @@
 
 [2025-11-21] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 
+[2025-11-25] [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
+
 
 
 </details>
