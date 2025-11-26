@@ -120,7 +120,7 @@
 
 [2025-11-25] [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 
-
+[2025-11-26] [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 
 </details>
 
