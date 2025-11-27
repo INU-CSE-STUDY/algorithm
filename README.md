@@ -122,6 +122,8 @@
 
 [2025-11-26] [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 
+[2025-11-27] [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) 
+
 </details>
 
 <details>
