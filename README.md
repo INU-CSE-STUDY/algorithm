@@ -153,5 +153,7 @@
 
 [2025-11-24] [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)
 
+[2025-12-01] [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
+
 
 </details>
