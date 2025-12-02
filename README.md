@@ -128,6 +128,8 @@
 
 [2025-12-02] [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 
+[2025-12-03] [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+
 </details>
 
 <details>
