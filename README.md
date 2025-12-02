@@ -126,6 +126,8 @@
 
 [2025-11-28] [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
 
+[2025-12-02] [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
+
 </details>
 
 <details>
