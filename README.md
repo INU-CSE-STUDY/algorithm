@@ -130,6 +130,8 @@
 
 [2025-12-03] [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 
+[2025-12-04] [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+
 </details>
 
 <details>
