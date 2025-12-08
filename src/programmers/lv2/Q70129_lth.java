@@ -8,28 +8,25 @@ package programmers.lv2;
 
 */
 
-class Q70129_lth {
+class Solution {
     public int[] solution(String s) {
         int[] answer = new int[2];
-        int l = s.length();
-        
-        while(l != 1){
-            int temp = 0;
-            for(int i = 0; i < l; i++){
-                int c = s.charAt(i) - '0';
-                if(c == 1){
-                    temp++;
-                }else{
+
+        while (!s.equals("1")) {
+            int ones = 0;
+
+            for (char ch : s.toCharArray()) {
+                if (ch == '1') {
+                    ones++;
+                } else {
                     answer[1]++;
                 }
             }
-            s = Integer.toBinaryString(temp);
-            l = s.length();
+
+            s = Integer.toBinaryString(ones);
             answer[0]++;
         }
-        
-        
-        
+
         return answer;
     }
 }
