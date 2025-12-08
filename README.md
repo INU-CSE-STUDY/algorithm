@@ -163,5 +163,7 @@
 
 [2025-12-01] [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)
 
+[2025-12-08] [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+
 
 </details>
