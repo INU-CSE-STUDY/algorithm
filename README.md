@@ -134,6 +134,8 @@
 
 [2025-12-05] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 
+[2025-12-09] [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+
 </details>
 
 <details>
