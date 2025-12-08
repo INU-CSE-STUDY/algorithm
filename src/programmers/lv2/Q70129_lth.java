@@ -8,7 +8,7 @@ package programmers.lv2;
 
 */
 
-class Solution {
+class Q70129_lth {
     public int[] solution(String s) {
         int[] answer = new int[2];
         int l = s.length();
