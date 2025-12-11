@@ -140,6 +140,8 @@
 
 [2025-12-11] [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 
+[2025-12-12] [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
+
 </details>
 
 <details>
