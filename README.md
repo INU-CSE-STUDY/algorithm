@@ -138,6 +138,8 @@
 
 [2025-12-10] [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
 
+[2025-12-11] [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+
 </details>
 
 <details>
