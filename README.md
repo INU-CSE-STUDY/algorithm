@@ -144,6 +144,8 @@
 
 [2025-12-16] [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 
+[2025-12-18] [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+
 </details>
 
 <details>
