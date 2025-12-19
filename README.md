@@ -146,6 +146,8 @@
 
 [2025-12-18] [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
 
+[2025-12-19] [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+
 </details>
 
 <details>
