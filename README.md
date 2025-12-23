@@ -148,6 +148,9 @@
 
 [2025-12-19] [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 
+[2025-12-24] [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+
+
 </details>
 
 <details>
