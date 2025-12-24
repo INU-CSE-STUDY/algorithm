@@ -150,6 +150,8 @@
 
 [2025-12-24] [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 
+[2025-12-25] [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+
 
 </details>
 
