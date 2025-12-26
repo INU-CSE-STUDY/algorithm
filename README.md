@@ -152,6 +152,9 @@
 
 [2025-12-25] [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
 
+[2025-12-26] [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
+
 
 </details>
 
