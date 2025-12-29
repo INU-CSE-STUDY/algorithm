@@ -187,5 +187,7 @@
 
 [2025-12-08] [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
 
+[2025-12-29] [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)
+
 
 </details>
