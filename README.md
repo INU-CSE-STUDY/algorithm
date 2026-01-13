@@ -156,6 +156,8 @@
 
 [2025-12-26] [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
 
+[2025-01-13] [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+
 </details>
 
 <details>
