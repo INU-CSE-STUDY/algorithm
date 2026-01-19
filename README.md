@@ -160,6 +160,8 @@
 
 [2026-01-14] [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 
+[2026-01-20] [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+
 </details>
 
 <details>
