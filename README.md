@@ -193,5 +193,7 @@
 
 [2025-12-29] [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)
 
+[2026-01-19] [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)
+
 
 </details>
