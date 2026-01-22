@@ -164,6 +164,8 @@
 
 [2026-01-21] [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 
+[2026-01-22] [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+
 </details>
 
 <details>
