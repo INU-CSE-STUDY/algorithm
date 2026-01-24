@@ -166,6 +166,8 @@
 
 [2026-01-22] [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 
+[2026-01-24] [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+
 </details>
 
 <details>
