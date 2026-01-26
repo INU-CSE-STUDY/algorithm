@@ -168,6 +168,8 @@
 
 [2026-01-24] [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 
+[2026-01-27] [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+
 </details>
 
 <details>
