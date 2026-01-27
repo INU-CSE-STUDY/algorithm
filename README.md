@@ -170,6 +170,8 @@
 
 [2026-01-27] [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 
+[2026-01-28] [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+
 </details>
 
 <details>
