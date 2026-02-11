@@ -172,9 +172,11 @@
 
 [2026-01-28] [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
+[2026-01-29] [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+
 [2026-02-10] [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 
-[2026-01-29] [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+[2026-02-11] [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 
 
 </details>
