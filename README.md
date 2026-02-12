@@ -178,6 +178,7 @@
 
 [2026-02-11] [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 
+[2026-02-12] [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
 </details>
 
