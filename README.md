@@ -180,6 +180,8 @@
 
 [2026-02-12] [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
+[2026-02-13] [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+
 </details>
 
 <details>
