@@ -182,6 +182,8 @@
 
 [2026-02-13] [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
+[2026-02-19] [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
 </details>
 
 <details>
