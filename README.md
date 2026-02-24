@@ -186,6 +186,8 @@
 
 [2026-02-20] [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 
+[2026-02-24] [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+
 </details>
 
 <details>
