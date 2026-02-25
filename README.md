@@ -188,6 +188,8 @@
 
 [2026-02-24] [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 
+[2026-02-25] [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+
 </details>
 
 <details>
