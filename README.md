@@ -190,6 +190,9 @@
 
 [2026-02-25] [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
 
+[2026-03-10] [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+
+
 </details>
 
 <details>
