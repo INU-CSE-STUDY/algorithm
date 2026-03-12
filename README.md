@@ -194,6 +194,7 @@
 
 [2026-03-11] [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
+[2026-03-12] [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 
 </details>
 
