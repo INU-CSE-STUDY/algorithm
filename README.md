@@ -198,6 +198,8 @@
 
 [2026-03-13] [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
 
+[2026-03-17] [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
+
 
 </details>
 
