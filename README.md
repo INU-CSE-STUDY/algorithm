@@ -200,6 +200,8 @@
 
 [2026-03-17] [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
 
+[2026-03-18] [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+
 
 </details>
 
