@@ -204,6 +204,10 @@
 
 [2026-03-19] [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 
+[2026-03-24] [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+
+[2026-03-25] [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
+
 
 </details>
 
