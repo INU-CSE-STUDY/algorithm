@@ -208,6 +208,8 @@
 
 [2026-03-25] [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
 
+[2026-03-27] [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+
 
 </details>
 
