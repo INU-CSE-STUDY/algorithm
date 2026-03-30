@@ -210,6 +210,8 @@
 
 [2026-03-27] [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 
+[2026-03-30] [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)
+
 
 </details>
 
