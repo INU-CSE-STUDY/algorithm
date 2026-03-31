@@ -210,7 +210,7 @@
 
 [2026-03-27] [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 
-[2026-03-30] [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)
+[2026-03-31] [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
 
 </details>
@@ -248,5 +248,6 @@
 
 [2026-01-19] [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)
 
+[2026-03-30] [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)
 
 </details>
