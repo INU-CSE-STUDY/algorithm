@@ -212,6 +212,8 @@
 
 [2026-03-31] [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
+[2026-04-01] [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
 
 </details>
 
