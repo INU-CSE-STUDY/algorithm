@@ -218,6 +218,8 @@
 
 [2026-04-03] [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 
+[2026-04-14] [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+
 </details>
 
 <details>
