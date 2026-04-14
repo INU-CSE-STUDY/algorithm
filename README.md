@@ -220,6 +220,8 @@
 
 [2026-04-14] [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 
+[2026-04-15] [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
 </details>
 
 <details>
