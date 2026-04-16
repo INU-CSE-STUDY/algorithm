@@ -222,6 +222,8 @@
 
 [2026-04-15] [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 
+[2026-04-16] [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+
 </details>
 
 <details>
