@@ -224,6 +224,8 @@
 
 [2026-04-16] [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 
+[2026-04-17] [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+
 </details>
 
 <details>
